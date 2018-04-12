@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "one\\Funny": "src/one/Funny"
+            "one\\Funny\\": "/src/one/Funny"
         }
     }
 }
